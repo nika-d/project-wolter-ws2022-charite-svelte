@@ -1,0 +1,92 @@
+@use '../../basics/colors';
+@use '../../basics/sizing';
+@use '../../basics/animation';
+@use '../../basics/focusLessHighlighted' as *;
+@use '../bootstrapConfig' as *;
+
+.btn-link {
+	--bs-btn-focus-shadow-rgb: #{colors.$white};
+}
+
+.btn,
+.btn-primary {
+	--bs-btn-color: #{colors.$white};
+	--bs-btn-bg: #{colors.$blue_pantone_293_100};
+	--bs-btn-border-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-hover-color: #{colors.$white};
+	--bs-btn-hover-bg: #{colors.$blue_pantone_293_070};
+	--bs-btn-hover-border-color: #{colors.$blue_pantone_293_070};
+	--bs-btn-focus-shadow-rgb: #{colors.$white};
+	--bs-btn-active-color: #{colors.$white};
+	--bs-btn-active-bg: #{colors.$blue_pantone_293_070};
+	--bs-btn-active-border-color: #{colors.$blue_pantone_293_070};
+	--bs-btn-active-shadow: #{colors.$white};
+	--bs-btn-disabled-color: #{colors.$white};
+	--bs-btn-disabled-bg: #{colors.$grey_pantone_430_100};
+	--bs-btn-disabled-border-color: #{colors.$grey_pantone_430_100};
+	--bs-btn-disabled-shadow: #{colors.$white};
+	--bs-btn-disabled-opacity: 1;
+
+	@include focusLessHighlighted;
+
+	span.material-icons {
+		@extend .d-inline-block;
+		vertical-align: text-top;
+		font-size: add($btn-font-size, sizing.$button_icon_additional_size);
+	}
+}
+
+.btn-outlined,
+.btn-secondary {
+	--bs-btn-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-bg: #{colors.$white};
+	--bs-btn-hover-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-hover-bg: #{colors.$blue_pantone_293_012};
+	--bs-btn-border-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-focus-shadow-rgb: #{colors.$white};
+	--bs-btn-active-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-active-bg: #{colors.$blue_pantone_293_012};
+	--bs-btn-active-border-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-active-shadow: #{colors.$white};
+	--bs-btn-disabled-color: #{colors.$grey_pantone_430_100};
+	--bs-btn-disabled-bg: #{colors.$white};
+	--bs-btn-disabled-border-color: #{colors.$grey_pantone_430_100};
+	--bs-btn-disabled-shadow: #{colors.$white};
+}
+
+.btn-ghost {
+	--bs-btn-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-bg: #{colors.$white};
+	--bs-btn-border-color: #{colors.$white};
+	--bs-btn-hover-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-hover-bg: #{colors.$blue_pantone_293_012};
+	--bs-btn-hover-border-color: #{colors.$blue_pantone_293_012};
+	--bs-btn-focus-shadow-rgb: #{colors.$white};
+	--bs-btn-active-color: #{colors.$blue_pantone_293_100};
+	--bs-btn-active-bg: #{colors.$blue_pantone_293_012};
+	--bs-btn-active-border-color: #{colors.$blue_pantone_293_012};
+	--bs-btn-active-shadow: #{colors.$white};
+	--bs-btn-disabled-color: #{colors.$grey_pantone_430_100};
+	--bs-btn-disabled-bg: #{colors.$white};
+	--bs-btn-disabled-border-color: #{colors.$white};
+	--bs-btn-disabled-shadow: #{colors.$white};
+}
+
+.btn-lg span.material-icons {
+	font-size: add($btn-font-size-lg, sizing.$button_icon_additional_size);
+}
+
+.btn-sm span.material-icons {
+	font-size: add($btn-font-size-sm, sizing.$button_icon_additional_size);
+}
+
+.btn-xs {
+	@extend .text-center;
+	height: sizing.$compact_input_total_height !important;
+	width: sizing.$compact_input_total_height !important;
+	padding: 0 !important;
+	line-height: normal !important;
+	span.material-icons {
+		font-size: $btn-font-size !important;
+	}
+}

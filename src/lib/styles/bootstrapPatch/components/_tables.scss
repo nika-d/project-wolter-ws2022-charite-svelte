@@ -1,0 +1,14 @@
+@use '../../basics/sizing';
+@use '../../basics/colors';
+
+.table {
+	border-color: colors.$grey_pantone_430_050;
+
+	> :not(:first-child) {
+		border-top-color: colors.$grey_pantone_430_050;
+	}
+}
+
+tr:hover {
+	background-color: colors.$grey_pantone_430_009;
+}

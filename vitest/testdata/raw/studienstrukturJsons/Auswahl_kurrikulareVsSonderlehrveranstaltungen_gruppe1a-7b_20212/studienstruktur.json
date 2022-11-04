@@ -1,0 +1,139 @@
+{
+	"studiengaenge": [
+		{
+			"id": 6,
+			"code": "MSM2",
+			"titel": "Modellstudiengang 2.0"
+		}
+	],
+	"module": [
+		{
+			"id": 15185,
+			"studiengangId": 6,
+			"zeitsemesterInt": 20212,
+			"zeitsemester": "WiSe2021",
+			"fachsemester": 3,
+			"titel": "Herz und Kreislaufsystem",
+			"code": "M11"
+		},
+		{
+			"id": 15425,
+			"studiengangId": 6,
+			"zeitsemesterInt": 20212,
+			"zeitsemester": "WiSe2021",
+			"fachsemester": 3,
+			"titel": "Grundlagen ärztlichen Denkens und Handelns",
+			"code": "GÄDH"
+		},
+		{
+			"id": 15177,
+			"studiengangId": 6,
+			"zeitsemesterInt": 20212,
+			"zeitsemester": "WiSe2021",
+			"fachsemester": 4,
+			"titel": "Chronische Erkrankungen und Krankheitsbewältigung",
+			"code": "KIT"
+		}
+	],
+	"veranstaltungen": [
+		{
+			"id": 78095,
+			"modulId": 15185,
+			"submodulId": 1518503,
+			"lehrformatId": 832,
+			"nummer": 1363,
+			"kurzTitel": "POL",
+			"langTitel": "POL M11-2"
+		},
+		{
+			"id": 78083,
+			"modulId": 15185,
+			"submodulId": 1518502,
+			"lehrformatId": 832,
+			"nummer": 1364,
+			"kurzTitel": "POL",
+			"langTitel": "POL M11-1"
+		},
+		{
+			"id": 78107,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 302,
+			"nummer": 812,
+			"kurzTitel": "Vorlesung",
+			"langTitel": "Regulation von Blutdruck und Blutvolumen"
+		},
+		{
+			"id": 78108,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 303,
+			"nummer": 796,
+			"kurzTitel": "Patientenvorstellung",
+			"langTitel": "Patient*in mit Herzinfarkt: Pathogenese, Klinik, Diagnostik und Therapie"
+		},
+		{
+			"id": 78109,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 833,
+			"nummer": 822,
+			"kurzTitel": "Seminar 1",
+			"langTitel": "Das arterielle System: hoher Druck und hoher Widerstand"
+		},
+		{
+			"id": 78112,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 676,
+			"nummer": 824,
+			"kurzTitel": "Präparierkurs",
+			"langTitel": "Präparation Koronargefäße, Eröffnung des Herzens, Herzklappen"
+		},
+		{
+			"id": 78113,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 838,
+			"nummer": 4309,
+			"kurzTitel": "Praktikum",
+			"langTitel": "Die Koronare Herzerkrankung"
+		},
+		{
+			"id": 78115,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 829,
+			"nummer": 798,
+			"kurzTitel": "Untersuchungskurs",
+			"langTitel": "Arterielle Hypertonie und KHK"
+		},
+		{
+			"id": 78116,
+			"modulId": 15185,
+			"submodulId": 1518504,
+			"lehrformatId": 375,
+			"nummer": 10884,
+			"kurzTitel": "Modulworkshop",
+			"langTitel": "Modulworkshop zu Modul 11"
+		},
+		{
+			"id": 80864,
+			"modulId": 15425,
+			"submodulId": 1542501,
+			"lehrformatId": 309,
+			"nummer": 3419,
+			"kurzTitel": "GäDH 15",
+			"langTitel": "Ethische, gesellschaftliche und psychosoziale Aspekte in der Organtransplantation"
+		},
+		{
+			"id": 77793,
+			"modulId": 15177,
+			"submodulId": 1517703,
+			"lehrformatId": 831,
+			"nummer": 3261,
+			"kurzTitel": "KIT",
+			"langTitel": "Chronische Erkrankungen und Krankheitsbewältigung"
+		}
+	]
+}

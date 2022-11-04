@@ -1,0 +1,18 @@
+@use '../../../basics/focusLessHighlighted' as *;
+@use '../../../basics/colors';
+
+.form-select {
+	@include focusLessHighlighted;
+	border: none;
+	padding: 0;
+	color: colors.$blue_pantone_293_100;
+	&:focus,
+	&:hover:not(:disabled) {
+		background-color: colors.$blue_pantone_293_012;
+		color: colors.$blue_pantone_293_100;
+	}
+	&:disabled {
+		color: colors.$grey_pantone_430_100;
+		background-color: colors.$white;
+	}
+}

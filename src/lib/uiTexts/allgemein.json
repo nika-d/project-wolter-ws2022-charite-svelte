@@ -1,0 +1,18 @@
+{
+	"ABBRECHEN": "Abbrechen",
+	"ABBRECHEN_ICON": "\ue14c",
+	"SPEICHERN": "Speichern",
+	"SPEICHERN_ICON": "\ue5ca",
+	"BITTE_WARTEN": "Bitte warten",
+	"OK": "OK",
+	"EINGABE": "Eingabe",
+	"BITTE_AUSWÄHLEN": "Bitte auswählen",
+	"SUCHE": "Suche",
+	"TIPPE_UM_ZU_STARTEN": "Beginne zu tippen, um Ergebnisse zu erhalten.",
+	"KEIN_ERGEBNIS": "Wir haben leider kein Ergebnis für deine Suche gefunden.",
+	"LOADING_GENERIC": "Daten werden geladen",
+	"ERROR_HEADING": "Technischer Fehler",
+	"ERROR_DATA_LOADING": "Die gewünschten Daten konnten nicht geladen werden. Bitte versuche es später erneut",
+	"ERROR_CODE_PREFIX": "Fehler-Nr.: ",
+	"RELOAD": "Erneut versuchen"
+}

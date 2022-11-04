@@ -1,0 +1,24 @@
+@use '../../basics/shadows';
+@use '../../basics/sizing';
+
+.dropdown-item {
+	border-radius: sizing.$size_1;
+	padding: sizing.$size_3 sizing.$size_4 sizing.$size_3 sizing.$size_4;
+	&:hover {
+		cursor: pointer;
+	}
+	display: block;
+	white-space: normal;
+}
+
+.dropdown-menu {
+	@include shadows.c-box-shadow;
+	border-radius: sizing.$border_radius_input;
+	border: 0;
+}
+
+.dropdown-toggle {
+	&::after {
+		display: none;
+	}
+}

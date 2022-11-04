@@ -1,0 +1,13 @@
+@use 'colors' as *;
+//todo @christopher, z.B. in Dropdown verwendet.
+@mixin c-box-shadow {
+	box-shadow: 0 1.5px 6px $grey_pantone_430_100;
+}
+
+@mixin large-shadow {
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
+}
+
+@mixin medium-shadow {
+	box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
+}

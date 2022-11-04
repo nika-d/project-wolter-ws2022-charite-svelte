@@ -1,0 +1,22 @@
+{
+	"LEHRENDE": "Lehr.",
+	"EINRICHTUNG_BITTE_WAEHLEN": "Einr. bitte wählen!",
+	"KEINE_EINRICHTUNG": "Einr. nicht wählbar",
+	"INPUT_LABEL_LEHRENDE": "Lehrende:r",
+	"INPUT_LABEL_EINRICHTUNGEN": "Einrichtung",
+	"CURRICULUM": "Curriculum",
+	"STUDIENGANG": "Studiengang",
+	"FACHSEMESTER_ABKUERZUNG": ".FS",
+	"MODUL": "Modul",
+	"VERANSTALTUNG": "Veranstaltung",
+	"LEHRFORMAT": "Lehrformat",
+	"GRUPPEN": "Gruppen",
+	"RAUM": "Raum",
+	"CAMPUS": "Campus",
+	"ZEIT": "Zeit",
+	"LEHRENDEN": "Lehrenden",
+	"LEHRENDEN_EINTRAGEN": "Lehrende:n eintragen",
+	"LEHRENDE_FEHLT": "Keine Lehrenden",
+	"MULTI_PASTE_INSERT": "Bei allen einfügen",
+	"MULTI_PASTE_SAVE": "Bei allen speichern"
+}

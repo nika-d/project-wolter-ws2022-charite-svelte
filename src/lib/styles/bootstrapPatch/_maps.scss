@@ -1,0 +1,17 @@
+$utilities-border-colors: (
+	'primary': $primary,
+	'light': $light,
+	'dark': $dark,
+	'danger': $danger
+);
+
+$utilities-bg-colors: (
+	'primary': $primary,
+	'secondary': $secondary,
+	'light': $light,
+	'dark': $dark,
+	'gray': $gray,
+	'grey': $gray
+);
+
+@import '../../../../node_modules/bootstrap/scss/maps';

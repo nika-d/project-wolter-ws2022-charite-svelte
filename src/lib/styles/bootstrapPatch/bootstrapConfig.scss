@@ -1,0 +1,25 @@
+/*
+****************************************************
+
+DONT @import or @use this file.
+(If you do, nothing fails, but you overwrite imported styles again, and maybe they wont be applied as you hope.)
+This is just for usage inside charite.scss .
+
+If you need bootstrap classes/variables/anything, write @use '....styles/charite' as * .
+
+****************************************************
+*/
+
+// Configuration
+@import 'functions';
+@import 'variables';
+
+@import 'mixins';
+@import 'maps';
+@import '../../../../node_modules/bootstrap/scss/utilities';
+
+@import 'root';
+
+@import 'layoutComponentsHelpersUtilities';
+
+//todo override color and shadow utilities

@@ -1,0 +1,29 @@
+[
+	{
+		"id": "20211-123",
+		"veranstaltungsId": "74476",
+		"start": "2020-04-14T10:00:00+02:00",
+		"ende": "2020-04-14T11:30:00+02:00",
+		"raumId": null,
+		"campus": "CCM",
+		"gruppenbezeichnung": "1a-4b",
+		"lehrTaetigkeiten": [
+			{
+				"id": "1",
+				"personId": "/K4Ysl4S4U9x4N7g+D/Vuw293iw=",
+				"einrichtungsId": "5"
+			},
+			{
+				"id": "2",
+				"personId": "00kffxuZSKpBXX0CwMbDTL4eUwQ=",
+				"einrichtungsId": "120"
+			},
+			{
+				"id": "3",
+				"personId": "00J2lj6tJ8APwu6cztcUq5hiPcg=",
+				"einrichtungsId": null
+			}
+		],
+		"lehrendesFehlt": false
+	}
+]

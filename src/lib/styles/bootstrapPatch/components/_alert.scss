@@ -1,0 +1,30 @@
+@use '../../basics/colors';
+@use '../bootstrapConfig' as *;
+@import '../../../../../node_modules/bootstrap/scss/forms/form-text';
+
+@mixin charite-alert-variant($background, $border, $color) {
+	--#{$prefix}alert-color: #{$color};
+	--#{$prefix}alert-bg: #{$background};
+	--#{$prefix}alert-border-color: #{$border};
+}
+
+.alert-primary {
+	@include charite-alert-variant($light, $primary, $primary);
+}
+.alert-secondary {
+	@include charite-alert-variant($light, $secondary, $secondary);
+}
+.alert-success {
+	@include charite-alert-variant(colors.$function_success_green_opaque, $success, $success);
+}
+.alert-info {
+	@include charite-alert-variant($light, $info, $info);
+}
+.alert-warning {
+	@include charite-alert-variant(colors.$function_warning_orange_opaque, $warning, $warning);
+}
+.alert-danger {
+	@include charite-alert-variant(colors.$function_error_red_opaque, $danger, $danger);
+}
+
+//todo: gucken, ob die components vielleicht doch in den bootstrap patch rein sollen.

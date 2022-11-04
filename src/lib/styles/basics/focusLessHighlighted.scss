@@ -1,0 +1,10 @@
+@mixin focusLessHighlighted {
+	box-shadow: none !important;
+	outline: none !important;
+	&:focus,
+	&:focus-visible,
+	&:focus-within {
+		box-shadow: none !important;
+		outline: none !important;
+	}
+}

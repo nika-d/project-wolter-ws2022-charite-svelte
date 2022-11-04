@@ -1,0 +1,21 @@
+{
+	"extends": "./.svelte-kit/tsconfig.json",
+	"compilerOptions": {
+		"types": ["vitest/globals"],
+		"target": "ES6",
+		"paths": {
+			"$lib": ["src/lib"],
+			"$lib/*": ["src/lib/*"]
+		},
+		"module": "es2022",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"allowSyntheticDefaultImports": true,
+		"importsNotUsedAsValues": "remove",
+		"sourceMap": true,
+		"lib": ["es2021", "dom"]
+	},
+	"allowSyntheticDefaultImports": true,
+	"include": ["src/**/*.js", "src/**/*.ts", "src/**/*.svelte"],
+	"exclude": ["node_modules/**", "./.svelte-kit/**"]
+}

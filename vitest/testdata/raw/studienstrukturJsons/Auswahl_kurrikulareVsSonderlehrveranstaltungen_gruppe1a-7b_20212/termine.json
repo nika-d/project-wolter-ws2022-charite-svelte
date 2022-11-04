@@ -1,0 +1,1166 @@
+[
+	{
+		"info": "1 Modulwoche, kurrikulare MSM2 Veranstaltung, Gruppen 1a-7b https://lernziele.charite.de/zend/lvelist/list/orderBy/@lv_codelve/orderMode/ASC/modul/15185/woche/4",
+		"termine": [
+			{
+				"info": "POL, MW 1, M11",
+				"termine": [
+					{
+						"id": "20212-1364-3._FS_1a-2a-1",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-18T14:30:00+01:00",
+						"ende": "2022-01-18T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-2a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55963,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55963,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [24],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_1a-2a-2",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-25T13:00:00+01:00",
+						"ende": "2022-01-25T14:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-2a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55964,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55964,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [24],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_2b-3b-1",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-18T14:30:00+01:00",
+						"ende": "2022-01-18T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "2b-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55979,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55979,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [93],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_2b-3b-2",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-25T13:00:00+01:00",
+						"ende": "2022-01-25T14:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "2b-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55980,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55980,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [93],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_4a-5a-1",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-18T14:30:00+01:00",
+						"ende": "2022-01-18T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4a-5a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 56007,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 56007,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [110],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_4a-5a-2",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-25T13:00:00+01:00",
+						"ende": "2022-01-25T14:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4a-5a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 56008,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 56008,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [110],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_5b-6b-1",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-18T13:15:00+01:00",
+						"ende": "2022-01-18T14:45:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "5b-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 56023,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 56023,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [61],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_5b-6b-2",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-25T11:45:00+01:00",
+						"ende": "2022-01-25T13:15:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "5b-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 56024,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 56024,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [61],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_7a-8a-1",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-18T14:30:00+01:00",
+						"ende": "2022-01-18T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "7a-8a",
+						"lehrTaetigkeiten": [],
+						"dozierTaetigkeiten": [],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [51],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1364-3._FS_7a-8a-2",
+						"veranstaltungsId": 78083,
+						"raumId": null,
+						"start": "2022-01-25T13:00:00+01:00",
+						"ende": "2022-01-25T14:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "7a-8a",
+						"lehrTaetigkeiten": [],
+						"dozierTaetigkeiten": [],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [51],
+						"noetigeQualifikationen": ["pol"]
+					}
+				]
+			},
+			{
+				"info": "1 Modulwoche, kurrikulare MSM2 Veranstaltung, Gruppen 1a-7b https://lernziele.charite.de/zend/lvelist/list/orderBy/@lv_codelve/orderMode/ASC/modul/15185/woche/4",
+				"termine": [
+					{
+						"id": "20212-1363-3._FS_1a-2a-1",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-01-25T14:30:00+01:00",
+						"ende": "2022-01-25T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-2a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55885,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55885,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [24],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_1a-2a-2",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-02-01T11:30:00+01:00",
+						"ende": "2022-02-01T13:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-2a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55886,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55886,
+								"personId": "0m3517efMl2rHAmZrfjF4AgJpes=",
+								"einrichtungsId": 24
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [24],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_2b-3b-1",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-01-25T14:30:00+01:00",
+						"ende": "2022-01-25T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "2b-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55901,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55901,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [93],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_2b-3b-2",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-02-01T11:30:00+01:00",
+						"ende": "2022-02-01T13:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "2b-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55902,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55902,
+								"personId": "e4fTeuOayRTOOIIYN5iYmQDZWWA=",
+								"einrichtungsId": 93
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [93],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_4a-5a-1",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-01-25T14:30:00+01:00",
+						"ende": "2022-01-25T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4a-5a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55929,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55929,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [110],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_4a-5a-2",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-02-01T12:15:00+01:00",
+						"ende": "2022-02-01T13:45:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4a-5a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55930,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55930,
+								"personId": "OkOEhfKlyxvWRBPgAzmp7JLf6eg=",
+								"einrichtungsId": 110
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [110],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_5b-6b-1",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-01-25T13:15:00+01:00",
+						"ende": "2022-01-25T14:45:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "5b-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55945,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55945,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [61],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_5b-6b-2",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-02-01T11:45:00+01:00",
+						"ende": "2022-02-01T13:15:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "5b-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 55946,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 55946,
+								"personId": "l0JcRToV4Us1+PifdWvvf2cSj1M=",
+								"einrichtungsId": 61
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [61],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_7a-8a-1",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-01-25T14:30:00+01:00",
+						"ende": "2022-01-25T16:00:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "7a-8a",
+						"lehrTaetigkeiten": [],
+						"dozierTaetigkeiten": [],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [51],
+						"noetigeQualifikationen": ["pol"]
+					},
+					{
+						"id": "20212-1363-3._FS_7a-8a-2",
+						"veranstaltungsId": 78095,
+						"raumId": null,
+						"start": "2022-02-01T12:15:00+01:00",
+						"ende": "2022-02-01T13:45:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "7a-8a",
+						"lehrTaetigkeiten": [],
+						"dozierTaetigkeiten": [],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [51],
+						"noetigeQualifikationen": ["pol"]
+					}
+				]
+			},
+			{
+				"info": "Vorlesung, MW 3, M11, 3.FS, WiSe2021, MSM2  Vorlesung: Regulation von Blutdruck und Blutvolumen",
+				"termine": [
+					{
+						"id": "20212-812-3._FS_1a-30b-1",
+						"veranstaltungsId": 78107,
+						"raumId": null,
+						"start": "2022-02-07T08:15:00+01:00",
+						"ende": "2022-02-07T09:45:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-30b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81042,
+								"personId": "JIelQztLfkT8TMvYj19PKzg2jGk=",
+								"einrichtungsId": 14
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [13, 14],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": "Patientenvorstellung, MW 3, M11, 3.FS, WiSe2021, MSM2  Patientenvorstellung: Patient*in mit Herzinfarkt: Pathogenese, Klinik, Diagnostik und Therapie",
+				"termine": [
+					{
+						"id": "20212-796-3._FS_1a-30b-1",
+						"veranstaltungsId": 78108,
+						"raumId": null,
+						"start": "2022-02-07T10:00:00+01:00",
+						"ende": "2022-02-07T11:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-30b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80276,
+								"personId": "Vwj9SJemoyohsY2FqZARrZoCgsE=",
+								"einrichtungsId": 71
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [71],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": " Seminar 1, MW 3, M11, 3.FS, WiSe2021, MSM2",
+				"termine": [
+					{
+						"id": "20212-822-3._FS_1a-4a-1",
+						"veranstaltungsId": 78109,
+						"raumId": null,
+						"start": "2022-02-08T10:00:00+01:00",
+						"ende": "2022-02-08T11:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "1a-4a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81902,
+								"personId": "JIelQztLfkT8TMvYj19PKzg2jGk=",
+								"einrichtungsId": 14
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [14],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-822-3._FS_4b-7b-1",
+						"veranstaltungsId": 78109,
+						"raumId": null,
+						"start": "2022-02-08T10:00:00+01:00",
+						"ende": "2022-02-08T11:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4b-7b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81912,
+								"personId": "BpBSj5jQwsu2f65U6QT7MBx1PCY=",
+								"einrichtungsId": 14
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [13],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-822-3._FS_4b-7b-1",
+						"veranstaltungsId": 78109,
+						"raumId": null,
+						"start": "2022-02-08T10:00:00+01:00",
+						"ende": "2022-02-08T11:30:00+01:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "4b-7b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81912,
+								"personId": "BpBSj5jQwsu2f65U6QT7MBx1PCY=",
+								"einrichtungsId": 14
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [13],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": "Präparierkurs, MW 3, M11, 3.FS, WiSe2021, MSM2 - Präparierkurs: Präparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+				"termine": [
+					{
+						"id": "20212-824A-3._FS_1a-3b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-09T08:15:00+01:00",
+						"ende": "2022-02-09T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "1a-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81940,
+								"personId": "YOEkQpGoOyzuNKIznly385Efp9E=",
+								"einrichtungsId": 17
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-824B-3._FS_1a-3b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-10T08:15:00+01:00",
+						"ende": "2022-02-10T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "1a-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81962,
+								"personId": "YOEkQpGoOyzuNKIznly385Efp9E=",
+								"einrichtungsId": 17
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-824B-3._FS_4a-6b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-10T08:15:00+01:00",
+						"ende": "2022-02-10T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "4a-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81973,
+								"personId": "LR+CuN/q2L7xA9PuJCRrtm1k9OQ=",
+								"einrichtungsId": 16
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-824B-3._FS_4a-6b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-10T08:15:00+01:00",
+						"ende": "2022-02-10T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "4a-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81973,
+								"personId": "LR+CuN/q2L7xA9PuJCRrtm1k9OQ=",
+								"einrichtungsId": 16
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-824A-3._FS_7a-9b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-09T08:15:00+01:00",
+						"ende": "2022-02-09T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "7a-9b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81955,
+								"personId": "Zwt7/NlQjO1RZRzVSniMryPEMBQ=",
+								"einrichtungsId": 17
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-824B-3._FS_7a-9b-1",
+						"veranstaltungsId": 78112,
+						"raumId": null,
+						"start": "2022-02-10T08:15:00+01:00",
+						"ende": "2022-02-10T09:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "7a-9b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 81977,
+								"personId": "Zwt7/NlQjO1RZRzVSniMryPEMBQ=",
+								"einrichtungsId": 17
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": "Praktikum, MW 3, M11, 3.FS, WiSe2021, MSM2  Praktikum: Die Koronare Herzerkrankung ",
+				"termine": [
+					{
+						"id": "20212-4309-3._FS_1a-3a-1",
+						"veranstaltungsId": 78113,
+						"raumId": 2082,
+						"start": "2022-02-09T12:15:00+01:00",
+						"ende": "2022-02-09T13:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "1a-3a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 71552,
+								"personId": "k5mdTizcfeI5nVwRK/ydkiamQYQ=",
+								"einrichtungsId": 17
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [135],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-4309-3._FS_3b-5b-1",
+						"veranstaltungsId": 78113,
+						"raumId": 2082,
+						"start": "2022-02-09T12:15:00+01:00",
+						"ende": "2022-02-09T13:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "3b-5b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 71561,
+								"personId": "ext-000003",
+								"einrichtungsId": 134
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [134],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-4309-3._FS_6a-8a-1",
+						"veranstaltungsId": 78113,
+						"raumId": 2082,
+						"start": "2022-02-09T12:15:00+01:00",
+						"ende": "2022-02-09T13:45:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "6a-8a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 71570,
+								"personId": "QapY2+BJzLcR9N4Vh3hIgt9tB/I=",
+								"einrichtungsId": 34
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [34],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": "Untersuchungskurs, MW 3, M11, 3.FS, WiSe2021, MSM2  Untersuchungskurs: Arterielle Hypertonie und KHK",
+				"termine": [
+					{
+						"id": "20212-798-3._FS_1a-1b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-11T08:00:00+01:00",
+						"ende": "2022-02-11T10:00:00+01:00",
+						"campus": "CVK",
+						"gruppenbezeichnung": "1a-1b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80345,
+								"personId": "0Cw6UlX19IE7J2oQis0uRLviZBs=",
+								"einrichtungsId": 70
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [70],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_2a-2b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-11T14:00:00+01:00",
+						"ende": "2022-02-11T16:00:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "2a-2b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80356,
+								"personId": "C9M7n5ZcpQb6xNZqNN7UI/W/pDY=",
+								"einrichtungsId": 71
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [71],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_3a-3b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-11T12:00:00+01:00",
+						"ende": "2022-02-11T14:00:00+01:00",
+						"campus": "CVK",
+						"gruppenbezeichnung": "3a-3b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80367,
+								"personId": "Sow0c1c8F3lHAoMp+9QOpwm/qeU=",
+								"einrichtungsId": 70
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [70],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_4a-4b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-09T10:00:00+01:00",
+						"ende": "2022-02-09T12:00:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "4a-4b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80378,
+								"personId": "jHkaJMalAkiGW0IDRDzbmnjhSi4=",
+								"einrichtungsId": 71
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [71],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_5a-5b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-11T12:00:00+01:00",
+						"ende": "2022-02-11T14:00:00+01:00",
+						"campus": "CVK",
+						"gruppenbezeichnung": "5a-5b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80388,
+								"personId": "Vsvr/KgSxYDXlIh8btnT5Smek2c=",
+								"einrichtungsId": 70
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [70],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_6a-6b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-09T14:00:00+01:00",
+						"ende": "2022-02-09T16:00:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "6a-6b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80390,
+								"personId": "71jK4hDB1MOob++pKbr0811ZSvg=",
+								"einrichtungsId": 71
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [71],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-798-3._FS_7a-7b-1",
+						"veranstaltungsId": 78115,
+						"raumId": null,
+						"start": "2022-02-11T08:00:00+01:00",
+						"ende": "2022-02-11T10:00:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "7a-7b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 80391,
+								"personId": "3ytMQ4UEPwPY2X3Q44jCMGsPam4=",
+								"einrichtungsId": 71
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [71],
+						"noetigeQualifikationen": []
+					}
+				]
+			},
+			{
+				"info": "Modulworkshop, MW 3, M11, 3.FS, WiSe2021, MSM2  Modulworkshop: Modulworkshop zu Modul 11 ",
+				"termine": [
+					{
+						"id": "20212-10884-3._FS_1a-60b-1",
+						"veranstaltungsId": 78116,
+						"raumId": 2345,
+						"start": "2022-02-07T12:45:00+01:00",
+						"ende": "2022-02-07T13:30:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "1a-60b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 53641,
+								"personId": "Pu/tCdUb721BA7FKN/UpkrnrA/U=",
+								"einrichtungsId": 149
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [163],
+						"noetigeQualifikationen": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"info": "Sonderlehrveranstaltung GÄDH (= Grundsätze ärztlichen Denkens und Handelns) https://lernziele.charite.de/zend/stundenplaneinheiten/index/orderBy/spe.von/lve/80864",
+		"termine": [
+			{
+				"info": null,
+				"termine": [
+					{
+						"id": "20212-3419-15-1",
+						"veranstaltungsId": 80864,
+						"raumId": null,
+						"start": "2021-10-21T16:15:00+02:00",
+						"ende": "2021-10-21T17:45:00+02:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "15",
+						"lehrTaetigkeiten": [
+							{
+								"id": 68508,
+								"personId": "y0rKJ0f0w2QEXRmH1XFgf1EubEM=",
+								"einrichtungsId": 64
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [64],
+						"noetigeQualifikationen": []
+					},
+					{
+						"id": "20212-3419-15-2",
+						"veranstaltungsId": 80864,
+						"raumId": null,
+						"start": "2021-10-28T16:15:00+02:00",
+						"ende": "2021-10-28T17:45:00+02:00",
+						"campus": "eLive",
+						"gruppenbezeichnung": "15",
+						"lehrTaetigkeiten": [
+							{
+								"id": 68513,
+								"personId": "1kbWjeEjM6p8eYpKbjWfeWtPBvs=",
+								"einrichtungsId": 64
+							},
+							{
+								"id": 533835,
+								"personId": "y0rKJ0f0w2QEXRmH1XFgf1EubEM=",
+								"einrichtungsId": 64
+							},
+							{
+								"id": 590007,
+								"personId": "wn+22pyDI5PpiCg5XL6g1z82bes=",
+								"einrichtungsId": 163
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [64],
+						"noetigeQualifikationen": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"info": "KIT 4.FS, https://lernziele.charite.de/zend/stundenplaneinheiten/index/orderBy/spe.von/lve/77793",
+		"termine": [
+			{
+				"info": "gruppe 11a-17b",
+				"termine": [
+					{
+						"id": "20212-3261-4._FS_10a-11a-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2183,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "10a-11a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67723,
+								"personId": "YI58DOdFSx0kE9aSoYJcE/AwMqE=",
+								"einrichtungsId": 3
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67723,
+								"personId": "YI58DOdFSx0kE9aSoYJcE/AwMqE=",
+								"einrichtungsId": 3
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [3],
+						"noetigeQualifikationen": ["kit"]
+					},
+					{
+						"id": "20212-3261-4._FS_11b-12b-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2045,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "11b-12b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67724,
+								"personId": "hB9KgG6nRa8nqbsXsz3fweyQEII=",
+								"einrichtungsId": 11
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67724,
+								"personId": "hB9KgG6nRa8nqbsXsz3fweyQEII=",
+								"einrichtungsId": 11
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [11],
+						"noetigeQualifikationen": ["kit"]
+					},
+					{
+						"id": "20212-3261-4._FS_13a-14a-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2051,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "13a-14a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67725,
+								"personId": "UjSzpEl7/vBAJcUQ7yqi5nZo7EA=",
+								"einrichtungsId": 175
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67725,
+								"personId": "UjSzpEl7/vBAJcUQ7yqi5nZo7EA=",
+								"einrichtungsId": 175
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [175],
+						"noetigeQualifikationen": ["kit"]
+					},
+					{
+						"id": "20212-3261-4._FS_14b-15b-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2156,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "14b-15b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67726,
+								"personId": "zwcMJo2QaAhdIQKhYDhweTnM2vY=",
+								"einrichtungsId": 9
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67726,
+								"personId": "zwcMJo2QaAhdIQKhYDhweTnM2vY=",
+								"einrichtungsId": 9
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [9],
+						"noetigeQualifikationen": ["kit"]
+					},
+					{
+						"id": "20212-3261-4._FS_16a-17a-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2044,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "16a-17a",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67727,
+								"personId": "5C+z7rOzoiWIrTVSLQr2ZbtaxD8=",
+								"einrichtungsId": 64
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67727,
+								"personId": "5C+z7rOzoiWIrTVSLQr2ZbtaxD8=",
+								"einrichtungsId": 64
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [64],
+						"noetigeQualifikationen": ["kit"]
+					},
+					{
+						"id": "20212-3261-4._FS_17b-18b-1",
+						"veranstaltungsId": 77793,
+						"raumId": 2050,
+						"start": "2021-11-30T10:00:00+01:00",
+						"ende": "2021-11-30T12:15:00+01:00",
+						"campus": "CCM",
+						"gruppenbezeichnung": "17b-18b",
+						"lehrTaetigkeiten": [
+							{
+								"id": 67728,
+								"personId": "74N4z3vjCmcbfUk4yDmJDdZF1Fs=",
+								"einrichtungsId": 13
+							}
+						],
+						"dozierTaetigkeiten": [
+							{
+								"id": 67728,
+								"personId": "74N4z3vjCmcbfUk4yDmJDdZF1Fs=",
+								"einrichtungsId": 13
+							}
+						],
+						"vertretungen": [],
+						"geplanteEinrichtungen": [13],
+						"noetigeQualifikationen": ["kit"]
+					}
+				]
+			}
+		]
+	}
+]

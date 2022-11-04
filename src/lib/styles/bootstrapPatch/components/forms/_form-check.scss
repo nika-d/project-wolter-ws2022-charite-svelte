@@ -1,0 +1,15 @@
+@use '../../../basics/colors';
+
+.form-check-input {
+	&:disabled {
+		border-color: colors.$grey_pantone_430_100;
+
+		&:checked {
+			background-color: colors.$grey_pantone_430_100;
+		}
+	}
+}
+
+.form-check-input:disabled + .form-check-label {
+	color: colors.$grey_pantone_430_100;
+}

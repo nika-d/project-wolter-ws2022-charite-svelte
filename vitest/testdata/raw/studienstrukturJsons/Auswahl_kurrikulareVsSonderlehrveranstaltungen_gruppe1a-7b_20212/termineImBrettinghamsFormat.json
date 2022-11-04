@@ -1,0 +1,590 @@
+[
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "1a-2a",
+		"Ort": null,
+		"Termin": "Di., 18.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Hamburg, Janette",
+				"Einrichtung": "CC13, I.f. Experimentelle Endokrinologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "1a-2a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 13:00 bis 14:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Hamburg, Janette",
+				"Einrichtung": "CC13, I.f. Experimentelle Endokrinologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "2b-3b",
+		"Ort": null,
+		"Termin": "Di., 18.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Siedler, Lara Kerstin",
+				"Einrichtung": "CC17, K.f. Neonatologie, CVK/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "2b-3b",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 13:00 bis 14:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Siedler, Lara Kerstin",
+				"Einrichtung": "CC17, K.f. Neonatologie, CVK/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "4a-5a",
+		"Ort": null,
+		"Termin": "Di., 18.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Eisert, Charlotte",
+				"Einrichtung": "CC17, K.f. Pädiatrie m.S. Onkologie und Hämatologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "4a-5a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 13:00 bis 14:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Eisert, Charlotte",
+				"Einrichtung": "CC17, K.f. Pädiatrie m.S. Onkologie und Hämatologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "5b-6b",
+		"Ort": null,
+		"Termin": "Di., 18.1.22, 13:15 bis 14:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Riebsch, Antonio",
+				"Einrichtung": "CC12, I.f. Med. Immunologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "5b-6b",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 11:45 bis 13:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Riebsch, Antonio",
+				"Einrichtung": "CC12, I.f. Med. Immunologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "7a-8a",
+		"Ort": null,
+		"Termin": "Di., 18.1.22, 14:30 bis 16:00",
+		"lehrendeliste": []
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-1",
+		"Gruppe": "7a-8a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 13:00 bis 14:30",
+		"lehrendeliste": []
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "1a-2a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Hamburg, Janette",
+				"Einrichtung": "CC13, I.f. Experimentelle Endokrinologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "1a-2a",
+		"Ort": null,
+		"Termin": "Di., 1.2.22, 11:30 bis 13:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Hamburg, Janette",
+				"Einrichtung": "CC13, I.f. Experimentelle Endokrinologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "2b-3b",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Siedler, Lara Kerstin",
+				"Einrichtung": "CC17, K.f. Neonatologie, CVK/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "2b-3b",
+		"Ort": null,
+		"Termin": "Di., 1.2.22, 11:30 bis 13:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Siedler, Lara Kerstin",
+				"Einrichtung": "CC17, K.f. Neonatologie, CVK/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "4a-5a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 14:30 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Eisert, Charlotte",
+				"Einrichtung": "CC17, K.f. Pädiatrie m.S. Onkologie und Hämatologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "4a-5a",
+		"Ort": null,
+		"Termin": "Di., 1.2.22, 12:15 bis 13:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Eisert, Charlotte",
+				"Einrichtung": "CC17, K.f. Pädiatrie m.S. Onkologie und Hämatologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "5b-6b",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 13:15 bis 14:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Riebsch, Antonio",
+				"Einrichtung": "CC12, I.f. Med. Immunologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "5b-6b",
+		"Ort": null,
+		"Termin": "Di., 1.2.22, 11:45 bis 13:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Riebsch, Antonio",
+				"Einrichtung": "CC12, I.f. Med. Immunologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "7a-8a",
+		"Ort": null,
+		"Termin": "Di., 25.1.22, 14:30 bis 16:00",
+		"lehrendeliste": []
+	},
+	{
+		"Curriculum": "3. FS, POL \nPOL M11-2",
+		"Gruppe": "7a-8a",
+		"Ort": null,
+		"Termin": "Di., 1.2.22, 12:15 bis 13:45",
+		"lehrendeliste": []
+	},
+	{
+		"Curriculum": "3. FS, Vorlesung \nRegulation von Blutdruck und Blutvolumen",
+		"Gruppe": "1a-30b",
+		"Ort": null,
+		"Termin": "Mo., 7.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Seifert, Eduard",
+				"Einrichtung": "CC02, I.f. Translationale Physiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Vorlesung \nPatient*in mit Herzinfarkt: Pathogenese, Klinik, Diagnostik und Therapie",
+		"Gruppe": "1a-30b",
+		"Ort": null,
+		"Termin": "Mo., 7.2.22, 10:00 bis 11:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Siebert, Veronika",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie und Angiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Seminar \nDas arterielle System: hoher Druck und hoher Widerstand",
+		"Gruppe": "1a-4a",
+		"Ort": null,
+		"Termin": "Di., 8.2.22, 10:00 bis 11:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Seifert, Eduard",
+				"Einrichtung": "CC02, I.f. Translationale Physiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Seminar \nDas arterielle System: hoher Druck und hoher Widerstand",
+		"Gruppe": "4b-7b",
+		"Ort": null,
+		"Termin": "Di., 8.2.22, 10:00 bis 11:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Leder, Florian",
+				"Einrichtung": "CC02, I.f. Translationale Physiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Seminar \nDas arterielle System: hoher Druck und hoher Widerstand",
+		"Gruppe": "4b-7b",
+		"Ort": null,
+		"Termin": "Di., 8.2.22, 10:00 bis 11:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Leder, Florian",
+				"Einrichtung": "CC02, I.f. Translationale Physiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "1a-3b",
+		"Ort": null,
+		"Termin": "Mi., 9.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Vrei, Rainer",
+				"Einrichtung": "CC02, I.f. Zell- und Neurobiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "1a-3b",
+		"Ort": null,
+		"Termin": "Do., 10.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Vrei, Rainer",
+				"Einrichtung": "CC02, I.f. Zell- und Neurobiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "4a-6b",
+		"Ort": null,
+		"Termin": "Do., 10.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Wolfinger, Theodor",
+				"Einrichtung": "CC02, I.f. Funktionelle Anatomie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "4a-6b",
+		"Ort": null,
+		"Termin": "Do., 10.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Wolfinger, Theodor",
+				"Einrichtung": "CC02, I.f. Funktionelle Anatomie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "7a-9b",
+		"Ort": null,
+		"Termin": "Mi., 9.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Reiffeisen, Gina",
+				"Einrichtung": "CC02, I.f. Zell- und Neurobiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nPräparation Koronargefäße, Eröffnung des Herzens, Herzklappen",
+		"Gruppe": "7a-9b",
+		"Ort": null,
+		"Termin": "Do., 10.2.22, 08:15 bis 09:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Reiffeisen, Gina",
+				"Einrichtung": "CC02, I.f. Zell- und Neurobiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nDie Koronare Herzerkrankung",
+		"Gruppe": "1a-3a",
+		"Ort": 2082,
+		"Termin": "Mi., 9.2.22, 12:15 bis 13:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Lodringer, Sarah",
+				"Einrichtung": "CC02, I.f. Zell- und Neurobiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nDie Koronare Herzerkrankung",
+		"Gruppe": "3b-5b",
+		"Ort": 2082,
+		"Termin": "Mi., 9.2.22, 12:15 bis 13:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Gallert, Olaf",
+				"Einrichtung": "DHZB, Deutsches Herzzentrum Berlin"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Praktikum \nDie Koronare Herzerkrankung",
+		"Gruppe": "6a-8a",
+		"Ort": 2082,
+		"Termin": "Mi., 9.2.22, 12:15 bis 13:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Ahren, Veit",
+				"Einrichtung": "CC05, I.f. Pathologie, CCM/CBF"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "1a-1b",
+		"Ort": null,
+		"Termin": "Fr., 11.2.22, 08:00 bis 10:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Blume, Friederik Laif",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "2a-2b",
+		"Ort": null,
+		"Termin": "Fr., 11.2.22, 14:00 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Hollaender, Peter",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie und Angiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "3a-3b",
+		"Ort": null,
+		"Termin": "Fr., 11.2.22, 12:00 bis 14:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Sambrot, Martin",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "4a-4b",
+		"Ort": null,
+		"Termin": "Mi., 9.2.22, 10:00 bis 12:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Geller, Johannes",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie und Angiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "5a-5b",
+		"Ort": null,
+		"Termin": "Fr., 11.2.22, 12:00 bis 14:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Sellá Guró, Omik Jonas",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie, CVK"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "6a-6b",
+		"Ort": null,
+		"Termin": "Mi., 9.2.22, 14:00 bis 16:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Merkur, Alexandra",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie und Angiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, UK \nArterielle Hypertonie und KHK",
+		"Gruppe": "7a-7b",
+		"Ort": null,
+		"Termin": "Fr., 11.2.22, 08:00 bis 10:00",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Grausee, Lennert",
+				"Einrichtung": "CC11, Med. K.m.S. Kardiologie und Angiologie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, Vor∕Nachbesprechungen \nModulworkshop zu Modul 11",
+		"Gruppe": "1a-60b",
+		"Ort": 2345,
+		"Termin": "Mo., 7.2.22, 12:45 bis 13:30",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Robertson, Lukas",
+				"Einrichtung": "STUD, Studierende"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, GäDH \nEthische, gesellschaftliche und psychosoziale Aspekte in der Organtransplantation",
+		"Gruppe": "15",
+		"Ort": null,
+		"Termin": "Do., 21.10.21, 16:15 bis 17:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Wotterer, Emanuela",
+				"Einrichtung": "CC12, Med. K.m.S. Psychosomatik, CBF/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, GäDH \nEthische, gesellschaftliche und psychosoziale Aspekte in der Organtransplantation",
+		"Gruppe": "15",
+		"Ort": null,
+		"Termin": "Do., 28.10.21, 16:15 bis 17:45",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Reis, Markus",
+				"Einrichtung": "CC12, Med. K.m.S. Psychosomatik, CBF/CCM"
+			},
+			{
+				"Lehrende:n": "Wotterer, Emanuela",
+				"Einrichtung": "CC12, Med. K.m.S. Psychosomatik, CBF/CCM"
+			},
+			{
+				"Lehrende:n": "Gut, Philipp",
+				"Einrichtung": "PDL, Prodekanat f.Studium und Lehre"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "10a-11a",
+		"Ort": 2183,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Gummer-Bell, Sally",
+				"Einrichtung": "CC01, I.f. Allgemeinmedizin, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "11b-12b",
+		"Ort": 2045,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Ogtein, Mareen",
+				"Einrichtung": "CC01, I.f. Sozialmedizin, Epidemiologie und Gesundheitsökonomie, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "13a-14a",
+		"Ort": 2051,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Brauer, Clemens",
+				"Einrichtung": "CC15, Bernstein Zentrum f.Computational Neuroscience, CBF"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "14b-15b",
+		"Ort": 2156,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Bersenhain, Antoinetta",
+				"Einrichtung": "CC01, I.f. Med. Soziologie und Rehabilitationswissenschaft, CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "16a-17a",
+		"Ort": 2044,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Klausthaler, Viktor",
+				"Einrichtung": "CC12, Med. K.m.S. Psychosomatik, CBF/CCM"
+			}
+		]
+	},
+	{
+		"Curriculum": "3. FS, KIT \nChronische Erkrankungen und Krankheitsbewältigung",
+		"Gruppe": "17b-18b",
+		"Ort": 2050,
+		"Termin": "Di., 30.11.21, 10:00 bis 12:15",
+		"lehrendeliste": [
+			{
+				"Lehrende:n": "Schlegel, Raimund",
+				"Einrichtung": "CC02, I.f. Physiologie, CCM"
+			}
+		]
+	}
+]

@@ -1,0 +1,24 @@
+@use '../../../basics/colors';
+@use '../../../basics/sizing';
+
+input[type='text'],
+.form-control {
+	&::placeholder {
+		color: colors.$grey_pantone_430_100;
+	}
+	&:focus {
+		box-shadow: none;
+	}
+	&:disabled {
+		background-color: colors.$grey_pantone_430_009;
+		color: colors.$grey_pantone_430_100;
+	}
+}
+
+.form-label {
+	font-size: sizing.$font_size_input_label;
+}
+
+.form-label.disabled {
+	color: colors.$grey_pantone_430_100;
+}
